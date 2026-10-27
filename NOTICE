@@ -1,0 +1,49 @@
+NOTICE — Atribución / Atribuição / Attribution
+
+ESPAÑOL
+-------
+La selección de palabras de la muestra `glosas-es-pt-ejemplo.csv` procede del
+dataset de Word Atlas (词光), © Word Atlas contributors, publicado bajo la
+licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/deed.es
+Repositorio original: https://github.com/designfuchen/word-atlas
+
+Cambios respecto a la obra original: se añadieron acepciones en español y en
+portugués (traducción propia del autor de este repositorio). No se ha copiado
+texto del proyecto original. La muestra derivada se comparte bajo CC BY 4.0.
+
+El texto de la guía (README.md) es obra original de Ezra-Zhao y se publica
+bajo la licencia MIT (ver LICENSE). El código de la aplicación Word Atlas es
+MIT en su repositorio original; esta guía no incluye código de ese proyecto.
+
+PORTUGUÊS
+---------
+A seleção de palavras da amostra `glosas-es-pt-ejemplo.csv` procede do dataset
+de Word Atlas (词光), © Word Atlas contributors, publicado sob a licença
+Creative Commons Atribuição 4.0 Internacional (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/deed.pt_BR
+Repositório original: https://github.com/designfuchen/word-atlas
+
+Alterações em relação à obra original: foram adicionadas acepções em espanhol
+e em português (tradução própria do autor deste repositório). Nenhum texto do
+projeto original foi copiado. A amostra derivada é compartilhada sob CC BY 4.0.
+
+O texto do guia (README.md) é obra original de Ezra-Zhao e é publicado sob a
+licença MIT (ver LICENSE). O código do aplicativo Word Atlas é MIT no seu
+repositório original; este guia não inclui código desse projeto.
+
+ENGLISH
+-------
+The word selection in the sample file `glosas-es-pt-ejemplo.csv` derives from
+the Word Atlas (词光) dataset, © Word Atlas contributors, licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+Original repository: https://github.com/designfuchen/word-atlas
+
+Changes made: Spanish and Portuguese glosses were added (original translations
+by this repository's author). No text from the original project is reproduced.
+The derived sample is shared under CC BY 4.0.
+
+The guide text (README.md) is an original work by Ezra-Zhao, released under
+the MIT License (see LICENSE). The Word Atlas application code is MIT in its
+original repository; this guide includes none of that code.
