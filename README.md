@@ -1,5 +1,7 @@
 # 🔤 Guía rápida: Word Atlas (词光) — 7.298 palabras IELTS, una palabra una imagen (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 Una sola página para usar **Word Atlas**: el atlas ilustrado de vocabulario IELTS de código abierto — qué trae el dataset, cómo se corre en local, cómo reutilizar los datos y cómo empezar a añadirle acepciones en español y portugués.
 
 **Autor:** Ezra-Zhao · Octubre 2026
